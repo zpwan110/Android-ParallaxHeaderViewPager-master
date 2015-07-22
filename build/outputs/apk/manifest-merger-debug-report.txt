@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:2
+	android:versionName
+		ADDED from AndroidManifest.xml:5:2
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:2
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.android.support:appcompat-v7:19.0.1:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:9:3
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:3
+application
+ADDED from AndroidManifest.xml:11:2
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.android.support:appcompat-v7:19.0.1:19:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+	android:label
+		ADDED from AndroidManifest.xml:14:3
+	android:allowBackup
+		ADDED from AndroidManifest.xml:12:3
+	android:icon
+		ADDED from AndroidManifest.xml:13:3
+	android:theme
+		ADDED from AndroidManifest.xml:15:3
+activity#com.kmshack.newsstand.MainActivity
+ADDED from AndroidManifest.xml:16:3
+	android:label
+		ADDED from AndroidManifest.xml:19:4
+	android:configChanges
+		ADDED from AndroidManifest.xml:18:4
+	android:name
+		ADDED from AndroidManifest.xml:17:4
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:20:4
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:21:5
+	android:name
+		ADDED from AndroidManifest.xml:21:13
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:23:5
+	android:name
+		ADDED from AndroidManifest.xml:23:15

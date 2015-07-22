@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:paddingTop="@dimen/header_height" />
+<!-- From: file:/E:/studio_Project/Android-ParallaxHeaderViewPager-master/res/layout-xhdpi/view_header_placeholder.xml -->

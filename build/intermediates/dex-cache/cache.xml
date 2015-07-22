@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\studio_Project\Android-ParallaxHeaderViewPager-master\libs\library-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\studio_Project\Android-ParallaxHeaderViewPager-master\build\intermediates\pre-dexed\debug\library-2.4.0-3901144c1ffcb127f2b55ecf2250eba68a5fc43d.jar" />
+    </item>
+    <item
+        jar="E:\studio_Project\Android-ParallaxHeaderViewPager-master\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\studio_Project\Android-ParallaxHeaderViewPager-master\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e8bef1a3c0b7e8f9bd8dc1da5b928e8af27e1282.jar" />
+    </item>
+    <item
+        jar="E:\studio_Project\Android-ParallaxHeaderViewPager-master\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b">
+        <dex dex="E:\studio_Project\Android-ParallaxHeaderViewPager-master\build\intermediates\pre-dexed\debug\classes-dcde415eb35e00a050c271c8edf2a3d4b5fa7728.jar" />
+    </item>
+    <item
+        jar="E:\studio_Project\Android-ParallaxHeaderViewPager-master\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\studio_Project\Android-ParallaxHeaderViewPager-master\build\intermediates\pre-dexed\debug\classes-02633c0a7dafc15f70eef416d90c7aa17b1d3e02.jar" />
+    </item>
+    <item
+        jar="D:\android_IDE\eclipse-jee-luna-R-win64-x86_64\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\studio_Project\Android-ParallaxHeaderViewPager-master\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b338e134fd30932e6cfe5c13f3f4252df3e6375e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@android:id/text1"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:gravity="center_vertical"
+	android:minHeight="62dp"
+	android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+	android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+	android:textColor="#333"
+	android:textSize="13sp" />
+<!-- From: file:/E:/studio_Project/Android-ParallaxHeaderViewPager-master/res/layout-xhdpi/list_item.xml -->
